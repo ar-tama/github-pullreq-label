@@ -10,7 +10,7 @@
 - Goto chrome://extensions/
 - "パッケージ化されていない拡張機能を読み込む"
 - Choose directory
-- Enjoy!
+- Enjoy!!
 
 ## issues
 
